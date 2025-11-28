@@ -8,6 +8,11 @@ Neko's Seterra Features Wizard
 Extension changelog
 </h3>
 <hr>
+<h3 id="190">
+Version 1.9.0
+</h3>
+Added an option to hide end modals, fixed dark mode
+<hr>
 <h3 id="186">
 Version 1.8.6
 </h3>
